@@ -1,2 +1,7 @@
-# real-time_data_loggin
-real-time_data_loggin
+# Real-Time Data Logging 
+
+**featues:**
+- use sensor dato to control the other operation
+- sensor data grapgical representation
+- sensor data for data logging
+
